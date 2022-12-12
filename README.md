@@ -4,7 +4,7 @@
 ### 📫 How to reach me: anantula.arya@gmail.com
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arya333&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya333)](https://github.com/Arya333/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya333)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Arya333/Arya333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

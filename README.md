@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Arya! 👋
+### 📚 I'm currently studying Computer Science at UT Austin
+### 💭 I'm interested in Robotics, Software Development, Machine Learning, and Cloud Computing
 
 <!--
 **Arya333/Arya333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

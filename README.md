@@ -1,11 +1,9 @@
 # Hi, I'm Arya! 👋
 ### 📚 I'm currently studying Computer Science at UT Austin
-### 💻 I'm experienced in Data Structures, Algorithms, Computer Architecture, and Operating Systems
-### 💭 I'm interested in Robotics, Software Development, Machine Learning, and Cloud Computing
+### 💻 I'm experienced in Data Structures, Algorithms, Computer Architecture, Operating Systems, Computer Networks, Machine Learning, and Artificial Intelligence
+### 💭 I'm interested in Software Development, Machine Learning, and Cloud Computing
 ### 🤝 I'm open to working on innovative projects with others 
 ### 📫 How to reach me: anantula.arya@gmail.com
-
-<img height="270em" src="https://github-readme-stats.vercel.app/api?username=Arya333&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 # Languages and Tools 🧰
 <div>

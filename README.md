@@ -1,6 +1,6 @@
 # Hi, I'm Arya! 👋
-### 📚 I'm currently studying Computer Science at UT Austin
-### 💭 I'm interested in Software Development, Machine Learning, and Cloud Computing
+### 📚 I'm currently studying Computer Science at Georgia Tech
+### 💭 I'm interested in Software Development, Machine Learning, and Distributed Systems
 ### 🤝 I'm open to working on innovative projects with others 
 ### 📫 How to reach me: anantula.arya@gmail.com
 
